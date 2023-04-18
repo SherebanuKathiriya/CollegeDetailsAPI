@@ -1,10 +1,10 @@
-package com.ambula.taskproject;
+package com.ravionics.task;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TaskprojectApplicationTests {
+class TaskApplicationTests {
 
 	@Test
 	void contextLoads() {

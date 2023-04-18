@@ -1,14 +1,13 @@
-package com.ambula.taskproject;
+package com.ravionics.task;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-
-public class TaskprojectApplication {
+public class TaskApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TaskprojectApplication.class, args);
+		SpringApplication.run(TaskApplication.class, args);
 	}
 
 }
